@@ -1,3 +1,2 @@
 Resolvendo conflito no arquivo de texto.
-arquivo para envio do mesmo utilizando git.
-novos valores adicionado.
+Envio do mesmo utilizando git. Novos valores adicionado.
